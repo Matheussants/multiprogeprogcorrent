@@ -16,5 +16,5 @@ Não-determinista
   
 Cada tarefa é uma unidade de execução autônoma; Tarefas podem ser totalmente independentes; Tarefas podem necessitar comunicação; Programa não controla a ordem de execução.
 
-
+![sem titulo](https://cloud.githubusercontent.com/assets/27031498/26278450/2763c176-3d71-11e7-98db-3eb3a0511b12.jpg)
 
